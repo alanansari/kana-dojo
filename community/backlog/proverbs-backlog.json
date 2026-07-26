@@ -359,7 +359,7 @@
     "english": "A strong person under the veranda",
     "meaning": "An unsung hero who supports behind the scenes",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 41,
@@ -790,7 +790,7 @@
     "romaji": "Nai sode wa furenu",
     "english": "You can't shake a sleeve you don't have",
     "meaning": "You can't give what you don't have",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

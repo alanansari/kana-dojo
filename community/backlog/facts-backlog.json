@@ -692,7 +692,7 @@
   {
     "id": 116,
     "fact": "Japan has themed trains where the entire interior is decorated for specific anime, seasonal events, or tourist destinations.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -704,7 +704,7 @@
   {
     "id": 118,
     "fact": "Japan has 'cuddle therapy' clinics where you can pay to be held, spooned, or simply have physical human contact.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

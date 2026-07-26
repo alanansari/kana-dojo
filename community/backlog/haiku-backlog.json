@@ -20,7 +20,7 @@
     "season": "Summer",
     "kigo": "Summer grasses (natsukusa)",
     "notes": "Reflects impermanence through a historical battlefield image.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -128,7 +128,7 @@
     "season": "Autumn",
     "kigo": "Deep autumn (aki fukaki)",
     "notes": "Evokes solitude and curiosity.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
